@@ -1,5 +1,5 @@
-# 💫 About Me:
-🔭 I am currently working on a CSS Framework<br>🤝 My partner @vantenox<br>🌵 Fun fact `Dinosaur is bigger than your Keyboard :)`
+# ✨ About Me:
+🪐 I am currently working on a CSS Framework<br>🤝 My partner @vantenox<br>🌵 Fun fact `Dinosaur is bigger than your Keyboard :)`
 
 
 ## 🌐 Socials:
