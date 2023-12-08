@@ -15,6 +15,6 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=nousantx&label=visitor&color=8&icon=2&pretty=false)](https://github.com/nousantx)
 
-  ## 💸 Donate
+  ## 💸 Support me with a donation :)
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/nousantx) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/nousantx) [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/nousantx)
   
