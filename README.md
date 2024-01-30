@@ -1,6 +1,6 @@
 # ✨ About Me:
 
-🪐 I am currently working on a CSS Framework<br>🤝 Come in peace<br>🌵 Fun fact `Dinosaur is bigger than your Keyboard :)`
+🪐 Hey, I'm NOuSantx<br>🌵 Fun fact `Dinosaur is bigger than your Keyboard :)`
 
 ## 🌐 Socials:
 
