@@ -1,3 +1,3 @@
-# Welcome
-
-There's nothing to see here, just try tenoxui now!
+<p align="center">
+  <samp> i like creating simple, fast (hopefully), yet useless thing. ¯\_(ツ)_/¯ </samp>
+</p>
